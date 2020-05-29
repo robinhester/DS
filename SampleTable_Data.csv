@@ -1,0 +1,54 @@
+Story_ID,Hackernews_Score,Story_Title,Story_Url
+11,5,Participation Inequality: Encouraging More Users to Contribute,http://www.useit.com/alertbox/participation_inequality.html
+130,,,
+2020,,,
+23308854,86,How to detect if an object has been garbage collected in JavaScript,http://stevehanov.ca/blog/?id=148
+23309269,1594,AWS services explained in one line each,https://adayinthelifeof.nl/2020/05/20/aws.html
+23310757,20,Mission and marketing in computer science degrees,https://www.cs.kent.ac.uk/people/staff/srk21/blog/2020/05/26/#marketing-speak-in-cs-programmes
+23313938,13,When Good Waves Go Rogue (2014),http://oceans.nautil.us/article/547/when-good-waves-go-rogue
+23314317,11,The Philip Roth Archive,https://www.tabletmag.com/sections/arts-letters/articles/philip-roth-letters
+23314635,133,Nitrome to convert its Flash game library to HTML5,http://www.nitrome.com/blog/articles/1427/
+23318583,21,A Novel Way to Think About Literary Categories,https://www.nybooks.com/daily/2020/05/25/a-novel-way-to-think-about-literary-categories/
+23318995,21,"A history of the codpiece, the personal protection for Renaissance equipment",https://www.newyorker.com/books/page-turner/a-brief-history-of-the-codpiece-the-personal-protection-for-renaissance-equipment
+23319576,175,A third of Americans now show signs of clinical anxiety or depression,https://www.washingtonpost.com/health/2020/05/26/americans-with-depression-anxiety-pandemic/
+23319848,318,A lot of “idiotic” things have reasonable explanations (2011),https://www.theatlantic.com/business/archive/2011/12/if-everyone-else-is-such-an-idiot-how-come-youre-not-rich/249430/
+23319901,841,Supabase (YC S20) – An open source Firebase alternative,https://supabase.io/
+23320097,207,macOS Catalina 10.15.5,https://support.apple.com/en-us/HT210642#macos10155
+23320803,104,How to build your own feature store for ML,https://www.logicalclocks.com/blog/how-to-build-your-own-feature-store
+23321096,19,The Concurnas Programming Language,https://concurnas.com/
+23321306,80,Dutch Scientists Find a Novel Coronavirus Early-Warning Signal,https://www.bloomberg.com/news/articles/2020-03-31/coronavirus-in-sewage-portended-covid-19-outbreak-in-dutch-city
+23322112,352,Trump threatens to 'close' down social media platforms,https://techcrunch.com/2020/05/27/after-twitter-fact-check-trump-threatens-to-regulate-or-close-down-social-media-platforms/
+23322117,60,Ask HN: Software for producing terminal-based tutorials?,
+23322321,219,Speech to Text on iPhone vs. Pixel,https://twitter.com/jamescham/status/1265512829806927873
+23322689,59,A Monday Is a Tuesday Is a Sunday as Covid-19 Disrupts Internal Clocks,https://www.scientificamerican.com/article/a-monday-is-a-tuesday-is-a-sunday-as-covid-19-disrupts-internal-clocks/
+23322730,927,Google no longer providing original URL in AMP for image search results,https://twitter.com/zenexer/status/1265633022709301249
+23322793,109,2020 Developer Survey Results,https://stackoverflow.blog/2020/05/27/2020-stack-overflow-developer-survey-results/
+23322978,156,HBO Max taking on Netflix with human curation instead of relying on algorithms,https://www.theverge.com/21268972/hbo-max-design-recommendation-human-curation-friends-kids-profiles
+23324147,146,"Americans, it turns out, would rather visit a store than buy food online",https://www.bloomberg.com/news/articles/2020-05-27/has-online-grocery-shopping-peaked-most-still-prefer-in-store
+23324225,88,Achieving Accessibility Through Simplicity,https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/
+23324521,173,Roman mosaic floor found under Italian vineyard,https://www.bbc.co.uk/news/world-europe-52818746
+23324598,507,Show HN: Obsidian – A knowledge base that works on local Markdown files,https://obsidian.md/
+23324877,445,"Boeing cutting more than 12,000 U.S. jobs with thousands more planned",https://www.reuters.com/article/us-boeing-jobs/boeing-laying-off-6700-u-s-workers-with-thousands-more-planned-idUSKBN2332EP
+23324898,100,GE switches off light bulb business after almost 130 years,https://arstechnica.com/information-technology/2020/05/ge-switches-off-light-bulb-business-after-almost-130-years/
+23324930,186,Hong Kong’s security law is going to devastate its economy,https://asia.nikkei.com/Opinion/Hong-Kong-security-law-is-going-to-devastate-its-economy
+23324961,250,Maximator: European signals intelligence cooperation,https://www.tandfonline.com/doi/full/10.1080/02684527.2020.1743538
+23324979,88,Gatsby raises $28M Series B led by Index Ventures,https://www.forbes.com/sites/davidjeans/2020/05/27/gatsby-website-building-startup-backed-by-index-ventures-raises-28-million/#18bc10047f3e
+23325146,9,How X’s Exene Cervenka found solace in her mistakes,https://www.huckmag.com/art-and-culture/music-2/exene-cervenka-x-interview-alphabetland/
+23325319,338,Guerrilla Public Service Redux (2017),https://99percentinvisible.org/episode/guerrilla-public-service/
+23325348,38,Cloud Security from First Principles,https://franklyspeaking.substack.com/p/frankly-speaking-52620-cloud-security
+23325778,171,Pompeo tells Congress Hong Kong is no longer autonomous from China,https://www.axios.com/pompeo-hong-kong-autonomous-china-aa719c5e-b6e7-4ce5-a56f-c3c276513927.html
+23326177,162,Bash IRC Quote Database,http://bash.org
+23326193,13,Analysis of how Covid-19 impacted product analytics usage,http://amplitude.com/covid19-impact
+23326329,174,Rediscovering the Small Web,https://neustadt.fr/essays/the-small-web/
+23326511,107,$100M in bounties paid via HackerOne to ethical hackers,https://www.bleepingcomputer.com/news/security/100-million-in-bounties-paid-by-hackerone-to-ethical-hackers/
+23326755,103,Show HN: Twingate – A modern solution for remote access,https://www.twingate.com/blog/introducing-twingate
+23327055,43,Climb Mount Improbable: Evolvable Critters in JavaScript,https://www.gwern.net/docs/genetics/selection/www.mountimprobable.com/index.html
+23327816,1,ReadMe (YC W15) is hiring – help make APIs better for everyone,https://readme.com/careers
+23328760,10,A bug in macOS 10.15.5 impacts bootable backups,https://bombich.com/blog/2020/05/27/bug-in-macos-10.15.5-impacts-bootable-backups-weve-got-you-covered
+23328888,3,Two Pearls of the Web,https://herebeseaswines.net/essays/2020-05-27-two-pearls-of-the-web
+23328990,35,CLIs are reified UIs (2017),https://www.expressionsofchange.org/reification-of-interaction/
+23329315,9,AMD CEO Lisa Su is highest paid CEO in S&P 500,https://fortune.com/2020/05/27/ceo-pay-average-coronavirus-lisa-su-bob-iger-reed-hastings-salary/
+23329701,7,A Feud in Wolf-Kink Erotica Raises a Deep Legal Question,https://www.nytimes.com/2020/05/23/business/omegaverse-erotica-copyright.html
+23329848,6,"Amazon Sent Out a Scripted News Segment, and 11 Stations Aired It",https://www.forbes.com/sites/nicholasreimann/2020/05/26/amazon-sent-out-a-scripted-news-segment-and-11-stations-aired-it/
+23330096,8,The Drudge Report Has Been Linking to a Site That Plagiarizes Stories,https://www.buzzfeednews.com/article/craigsilverman/the-drudge-report-has-been-linking-to-a-site-that
+23330146,4,He was part of Amazon’s coronavirus hiring spree. Two weeks later he was dead,https://www.latimes.com/business/technology/story/2020-05-27/la-fi-tn-amazon-worker-dead-hiring-wave
